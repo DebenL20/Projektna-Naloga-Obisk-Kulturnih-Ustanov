@@ -23,3 +23,5 @@ Vprašanja:
 - Kako nam je pandemija ovirala obisk in kakšne alternative smo našli v tem času?
 
 Kar se tiče odgovorov na ta vprašanja, sem jih poskušal odgovoriti v datoteki.
+
+[Obisk Kulturnih Ustanov Projektna Naloga.zip](https://github.com/DebenL20/Projektna-Naloga-Obisk-Kulturnih-Ustanov/files/9483061/Obisk.Kulturnih.Ustanov.Projektna.Naloga.zip)
