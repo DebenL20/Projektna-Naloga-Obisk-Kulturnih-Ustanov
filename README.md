@@ -24,3 +24,5 @@ Vprašanja:
 
 Kar se tiče odgovorov na ta vprašanja, sem jih poskušal odgovoriti v datoteki.
 (Datoteka se imenuje: Obisk Kulturnih Ustanov Projektna Naloga.zip)
+V tej datoteki, sem uporabljal tabele podatkov, za pravilno delovanje ukazov v datoteki, priporočam, da so tudi te prenesene.
+Zapisane so v .csv obliki.
